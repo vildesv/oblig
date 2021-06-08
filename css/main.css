@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(205, 220, 230);
+}
+
+h1 {
+   text-align: center; 
+}
+
+p.info {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.knapp {
+    
+    background-color: #693E43;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.knapp:hover {
+    background-color: white;
+    color: #693E43;
+}
+
+.first{
+    clear: left;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
+
+p.ability {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+}
+
+#tilbakeKnapp {
+    background-color: #693E43;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#tilbakeKnapp:hover {
+    background-color: white;
+    color: #693E43;
+}
+
+.bilde {
+    cursor: pointer;
+}
