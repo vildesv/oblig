@@ -39,7 +39,7 @@ function selectedCharacter(idOnOneCharacter){
     </div>
     <br>
     <br>
-    <button id="tilbakeKnapp" onclick="updateView()">Back</button>
+    <button id="tilbakeKnapp" onclick="updateView()">Tilbake</button>
     `;
 
     divApp.innerHTML = html;

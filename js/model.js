@@ -195,9 +195,14 @@ const model = {
         
     ],
 
-    team: [
+    teamView: '',
+        team: [
+            {
+                id: '',
+            },
 
-    ],
+        
+        ],
 
 };
 
